@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue
+Favorite food: Hamburger
+Favorite musician/band: Radiohead
+Favorite movie: Matrix	
+Requested grade in the course: DROP TABLE Grades 
